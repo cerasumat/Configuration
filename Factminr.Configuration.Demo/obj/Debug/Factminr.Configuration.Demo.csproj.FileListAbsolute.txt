@@ -1,0 +1,12 @@
+D:\SourceCode\Factminr\Factminr.Configuration\Factminr.Configuration\Factminr.Configuration.Demo\bin\Debug\Factminr.Configuration.Demo.exe.config
+D:\SourceCode\Factminr\Factminr.Configuration\Factminr.Configuration\Factminr.Configuration.Demo\bin\Debug\Factminr.Configuration.Demo.exe
+D:\SourceCode\Factminr\Factminr.Configuration\Factminr.Configuration\Factminr.Configuration.Demo\bin\Debug\Factminr.Configuration.Demo.pdb
+D:\SourceCode\Factminr\Factminr.Configuration\Factminr.Configuration\Factminr.Configuration.Demo\obj\Debug\Factminr.Configuration.Demo.csprojResolveAssemblyReference.cache
+D:\SourceCode\Factminr\Factminr.Configuration\Factminr.Configuration\Factminr.Configuration.Demo\obj\Debug\Factminr.Configuration.Demo.csproj.CoreCompileInputs.cache
+D:\SourceCode\Factminr\Factminr.Configuration\Factminr.Configuration\Factminr.Configuration.Demo\obj\Debug\Factminr.Configuration.Demo.exe
+D:\SourceCode\Factminr\Factminr.Configuration\Factminr.Configuration\Factminr.Configuration.Demo\obj\Debug\Factminr.Configuration.Demo.pdb
+D:\SourceCode\Factminr\Factminr.Configuration\Factminr.Configuration\Factminr.Configuration.Demo\bin\Debug\Factminr.Configuration.dll
+D:\SourceCode\Factminr\Factminr.Configuration\Factminr.Configuration\Factminr.Configuration.Demo\bin\Debug\Factminr.Configuration.pdb
+D:\SourceCode\Factminr\Factminr.Configuration\Factminr.Configuration\Factminr.Configuration.Demo\obj\Debug\Factminr.Configuration.Demo.csproj.CopyComplete
+D:\SourceCode\Factminr\Factminr.Configuration\Factminr.Configuration\Factminr.Configuration.Demo\bin\Debug\Newtonsoft.Json.dll
+D:\SourceCode\Factminr\Factminr.Configuration\Factminr.Configuration\Factminr.Configuration.Demo\bin\Debug\Newtonsoft.Json.xml
